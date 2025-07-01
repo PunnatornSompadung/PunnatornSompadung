@@ -16,5 +16,12 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
 <img src="https://github-readme-stats.vercel.app/api?username=monthonsova&theme=dark" width="60%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monthonsova&theme=dark" width="60%" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 
 </div>
