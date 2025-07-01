@@ -11,11 +11,8 @@
 — 💻 Roblox Studio Dev (Coding, Animation, Building, Modeling etc.)  
 **Check my Roblox profile** : https://www.roblox.com/th/users/1734009665/profile#!/creations
 - 🎓 Currently studying at **RMUTL**
-- 🔧 Backend & frontend (kinda).
-- 🧠 StackOverflow + ChatGPT = secret weapons.
-- 💬 Contact me on Instagram: **Apologym_**
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=monthonsova&theme=dark" width="60%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monthonsova&theme=dark" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=monthonsova&theme=white" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monthonsova&theme=white" width="60%" />
 </div>
