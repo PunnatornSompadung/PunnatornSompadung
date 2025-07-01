@@ -11,8 +11,10 @@
 — 💻 Roblox Studio Dev (Coding, Animation, Building, Modeling etc.)  
 **Check my Roblox profile** : https://www.roblox.com/th/users/1734009665/profile#!/creations
 - 🎓 Currently studying at **RMUTL**
+- 🏋️ Gymrat
+- 🎸 Guitarist
+- 💾 frequently code : `lua`
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunnatornSompadung&theme=white" width="60%" />
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PunnatornSompadung&label=Profile%20views&color=0e75b6&style=flat" alt="tumrmutl" /> </p>
