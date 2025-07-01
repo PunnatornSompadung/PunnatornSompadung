@@ -13,6 +13,7 @@
 - 🎓 Currently studying at **RMUTL**
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=monthonsova&theme=white" width="60%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monthonsova&theme=white" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=PunnatornSompadung&theme=white" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunnatornSompadung&theme=white" width="60%" />
+
 </div>
