@@ -4,6 +4,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="30" height="30" alt="blender logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="30" height="30" alt="unrealengine logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30" alt="figma logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="30" height="30" alt="lua logo"  />
+
 
 
 — but copy-paste is life 💻😎
@@ -16,9 +21,4 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
 <img src="https://github-readme-stats.vercel.app/api?username=monthonsova&theme=dark" width="60%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monthonsova&theme=dark" width="60%" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="60% alt="blender logo"  /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="60% alt="unrealengine logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60% alt="figma logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"  alt="lua logo"  />
-
 </div>
